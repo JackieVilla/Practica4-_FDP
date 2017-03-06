@@ -1,0 +1,77 @@
+ Dfd (c)
+1
+1
+1
+0
+1
+88
+Este algoritmo le indica la usuario a que categoria pertenece según su signo del zodiaco
+6
+1
+1
+z
+1
+0
+4
+1
+871
+'Teclea tu signo del zodiaco:                                                 1.- Aries                                                                2.- Tauro                                                              3.- Geminis                                                           4.- Cancer                                                            5.- Leo                                                                  6.-Virgo                                                                 7.- Libra                                                                8.- Escorpion                                                        9.- Sagitario                                                          10.- Capricornio                                                    11.- Acuario                                                          12.- Piscis'
+5
+1
+1
+z
+9
+1
+11
+z<1 or z>12
+4
+1
+46
+'ERROR: ',z,' no está asociado a ningún signo'
+4
+1
+846
+'Teclea nuevamente tu signo del zodiaco              1.- Aries                                                                2.- Tauro                                                              3.- Geminis                                                           4.- Cancer                                                            5.- Leo                                                                  6.-Virgo                                                                 7.- Libra                                                                8.- Escorpion                                                        9.- Sagitario                                                          10.- Capricornio                                                    11.- Acuario                                                          12.- Piscis'
+5
+1
+1
+z
+11
+7
+1
+1
+17
+z=1 or z=5 or z=9
+4
+1
+22
+'Es de categría fuego'
+13
+7
+1
+1
+18
+z=2 or z=6 or z=10
+4
+1
+23
+'Es de categría tierra'
+13
+7
+1
+1
+18
+z=3 or z=7 or z=11
+4
+1
+21
+'Es de categría aire'
+13
+4
+1
+21
+'Es de categría agua'
+13
+13
+13
+1

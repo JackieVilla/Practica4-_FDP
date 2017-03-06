@@ -1,0 +1,84 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+1
+1
+x
+1
+0
+4
+1
+70
+'Este algoritmo clasifica los grados dependiendo el ángulo que formen'
+4
+1
+21
+'Intoduzca un numero'
+5
+1
+1
+x
+7
+0
+1
+12
+x>0 and x<90
+7
+0
+1
+3
+x=9
+7
+0
+1
+14
+x>90 and x<180
+7
+0
+1
+5
+x=180
+7
+0
+1
+15
+x>180 and x<360
+4
+1
+73
+'El ángulo no se encuentra en nuestra clasificación. Ingrese otro número'
+13
+4
+1
+22
+'El ángulo es cóncavo'
+13
+13
+4
+1
+20
+'El ángulo es llano'
+13
+13
+4
+1
+21
+'El ángulo es obtuso'
+13
+13
+4
+1
+20
+'El ángulo es recto'
+13
+13
+4
+1
+20
+'El ángulo es agudo'
+13
+1

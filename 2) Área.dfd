@@ -1,0 +1,50 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+2
+5
+radio
+3
+0.0
+4
+area
+3
+0.0
+4
+1
+68
+'Este programa determina el area de un circulo a partir de su radio'
+4
+1
+32
+'Ingrese el radio de su circulo'
+5
+1
+5
+radio
+6
+1
+4
+area
+18
+3.1416*radio*radio
+7
+0
+1
+10
+radio >= 0
+4
+1
+40
+'El radio del circulo debe se mayor a 0'
+13
+4
+1
+31
+'El area del circulo es: ',area
+13
+1

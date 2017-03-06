@@ -1,0 +1,113 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+5
+tempa
+1
+0
+5
+tempb
+1
+0
+3
+inc
+1
+0
+6
+3
+8
+temporal
+3
+0.0
+1
+i
+3
+0.0
+5
+faren
+3
+0.0
+4
+1
+178
+'Este programa muestra intervalos de temperatura en Celsius y Farenheit con un incremento decidido por usted. Escriba la temperatura mas baja del intervalo que desea en Celsius.'
+5
+1
+5
+Tempb
+4
+1
+44
+'Ingrese la temperatura mas alta en Celsius'
+5
+1
+5
+Tempa
+4
+1
+41
+'ingrese el incremento en grados celsius'
+5
+1
+3
+inc
+7
+0
+1
+13
+tempb > tempa
+13
+6
+3
+8
+temporal
+5
+tempa
+6
+tempa 
+5
+tempb
+5
+tempb
+8
+temporal
+13
+6
+2
+5
+inter
+13
+tempa - tempb
+5
+faren
+16
+(9/5)*tempb + 32
+9
+1
+13
+tempa > tempb
+4
+1
+52
+'Grados Celsius: ',tempb,' grados Farenheit: ',faren
+6
+2
+5
+tempb
+11
+tempb + inc
+5
+faren
+16
+(9/5)*tempb + 32
+11
+4
+1
+52
+'Grados Celsius: ',tempb,' grados Farenheit: ',faren
+1

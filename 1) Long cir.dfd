@@ -1,0 +1,48 @@
+ Dfd (c)
+1
+1
+1
+0
+1
+76
+Este algoritmo determina la longitud de la circunferencia a partir del radio
+6
+2
+1
+r
+1
+0
+2
+pi
+6
+3.1416
+4
+1
+29
+'Bienvenido, teclea el radio'
+5
+1
+1
+r
+9
+1
+3
+r<0
+4
+1
+39
+'ERROR, el radio no puede ser negativo'
+4
+1
+28
+'Teclea nuevamente el radio'
+5
+1
+1
+r
+11
+4
+1
+46
+'La longitud de la ciercunferencia es ',2*pi*r
+1

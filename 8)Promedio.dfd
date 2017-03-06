@@ -1,0 +1,87 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+4
+cali
+3
+0.0
+4
+acum
+3
+0.0
+4
+prom
+3
+0.0
+6
+1
+4
+cont
+1
+0
+4
+1
+154
+'Este algoritmo calcula el promedio de las calificaciones que usted desee. Escriba las calificaciones secuencialmente y cuando quiera terminar escriba -1'
+9
+1
+10
+cali != -1
+5
+1
+4
+cali
+7
+0
+1
+10
+cali != -1
+4
+1
+35
+'Gracias por usar nuestro sotfware'
+13
+7
+0
+1
+9
+cali >=0 
+4
+1
+102
+'El rango de calificacion debe ser de 0 a 10. Ingrese una calificacion valida para seguir promediando'
+13
+7
+0
+1
+9
+cali <=10
+13
+6
+3
+4
+acum
+11
+acum + cali
+4
+cont
+8
+cont + 1
+4
+prom
+11
+acum / cont
+4
+1
+22
+'el promedio es:',prom
+13
+13
+13
+11
+1
